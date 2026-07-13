@@ -30,11 +30,11 @@ Publications
 
 **Improving the Euclidean diffusion generation of manifold data by mitigating score function singularity**  
 <u>Zichen Liu</u>, Wei Zhang, Tiejun Li. *Advances in Neural Information Processing Systems (NeurIPS)*, 38: 110885–110917, 2025.  
-[Paper](https://math.pku.edu.cn/teachers/litj/) | [Code](https://github.com/ZichenLiu1999/NisoTangoDM) | [BibTeX](/files/Liu2026Riemannian.bib)  
+[Paper](https://math.pku.edu.cn/teachers/litj/) | [Code](https://github.com/ZichenLiu1999/NisoTangoDM) 
 
 **Riemannian denoising diffusion probabilistic models**  
 <u>Zichen Liu</u>, Wei Zhang, Christof Schütte, Tiejun Li. *Communications in Mathematical Sciences*, 24(5): 1267–1295, 2026.  
-[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/a0d2345b43e66fa946155c98899dc03b-Abstract-Conference.html) | [Code](https://github.com/ZichenLiu1999/RiemannianDDPM)  
+[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/a0d2345b43e66fa946155c98899dc03b-Abstract-Conference.html) | [Code](https://github.com/ZichenLiu1999/RiemannianDDPM) | [BibTeX](/files/Liu2026Riemannian.bib)  
 
 **Free energy surface sampling via reduced flow matching**  
 <u>Zichen Liu</u>, Tiejun Li. arXiv: 2605.00337, 2026.  
